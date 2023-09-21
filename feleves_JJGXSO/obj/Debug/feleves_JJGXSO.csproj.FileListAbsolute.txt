@@ -1,0 +1,8 @@
+D:\feleves_JJGXSO\feleves_JJGXSO\bin\Debug\feleves_JJGXSO.exe.config
+D:\feleves_JJGXSO\feleves_JJGXSO\bin\Debug\feleves_JJGXSO.exe
+D:\feleves_JJGXSO\feleves_JJGXSO\bin\Debug\feleves_JJGXSO.pdb
+D:\feleves_JJGXSO\feleves_JJGXSO\obj\Debug\feleves_JJGXSO.csproj.AssemblyReference.cache
+D:\feleves_JJGXSO\feleves_JJGXSO\obj\Debug\feleves_JJGXSO.csproj.SuggestedBindingRedirects.cache
+D:\feleves_JJGXSO\feleves_JJGXSO\obj\Debug\feleves_JJGXSO.csproj.CoreCompileInputs.cache
+D:\feleves_JJGXSO\feleves_JJGXSO\obj\Debug\feleves_JJGXSO.exe
+D:\feleves_JJGXSO\feleves_JJGXSO\obj\Debug\feleves_JJGXSO.pdb
